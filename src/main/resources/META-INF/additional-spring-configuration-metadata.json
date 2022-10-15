@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "sendChamp_publicKey",
+      "type": "java.lang.String",
+      "description": "Description for sendChamp_publicKey."
+  }
+] }
